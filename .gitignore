@@ -1,8 +1,27 @@
-# Carpertas
-dist/
-__pycache__/
-build/
-
-# Archivos
+# Archivos Python compilados
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.log
 *.spec
+*.sqlite3
+*.swp
+*.swo
+*~
+*.csv
 *.ico
+.DS_Store          # MacOS
+Thumbs.db          # Windows
+desktop.ini        # Windows
+
+# Carpetas
+
+venv/
+env/
+ENV/
+dist/
+build/
+__pycache__/
+.idea/
+.vscode/
