@@ -11,7 +11,7 @@ Los temas incluidos son los siguientes:
 * Suavizado por promedio móvil recursivo de orden n 
 * Regresión lineal
 
-Tambien incorporan gráficas para facilitar la visualización e interpretación de los resultados.
+La mayoría de las prácticas permiten visualizar las gráficas correspondientes, ademas utilizan archivos CSV, para poder cargar los datos y mostrarlas en tablas.
 
 ---
 
