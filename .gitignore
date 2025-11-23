@@ -1,4 +1,7 @@
+# Carpertas
 dist/
 __pycache__/
-main.spec/
-logo.ico/
+
+# Archivos
+*.spec
+*.ico
