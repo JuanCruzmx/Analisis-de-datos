@@ -2,10 +2,8 @@
 
 ---
 
-<img src='https://skillicons.dev/icons?i=py'/>
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-brightgreen)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-brightgreen?style=for-the-badge&logo=tkinter)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphics-orange)
 ![Numpy](https://img.shields.io/badge/Numpy-Math-yellow)
 
