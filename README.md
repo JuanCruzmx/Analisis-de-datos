@@ -34,7 +34,7 @@ Los temas incluidos son los siguientes:
 
 Te gustaria probarlo...
 
-Puedes probar la aplicación descargando el istalador desde la sección de [Releases](https://github.com/JuanCruzmx/Analisis-de-datos/releases) de este repositorio.
+Puedes probar la aplicación descargando el instalador desde la sección de [Releases](https://github.com/JuanCruzmx/Analisis-de-datos/releases) de este repositorio.
 
 O si deseas probar la aplicación sin istalar:
 
