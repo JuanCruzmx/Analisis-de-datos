@@ -20,3 +20,16 @@ La mayoría de las prácticas permiten visualizar las gráficas correspondientes
 <div align='center'>
 <img src='https://skillicons.dev/icons?i=py'/>
 </div>
+
+---
+
+## Instalación y ejecución rápido.
+
+Te gustaria probarlo...
+
+```bash
+git clone https://github.com/JuanCruzmx/Analisis-de-datos.git
+cd Analisis-de-datos
+pip install matplotlib numpy
+python main.py
+```
