@@ -2,10 +2,13 @@
 
 ---
 
+<div align='center'>
+<img src='https://skillicons.dev/icons?i=py'/>
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-brightgreen)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Graphics-orange)
 ![Numpy](https://img.shields.io/badge/Numpy-Math-yellow)
+</div>
 
 ---
 
@@ -22,21 +25,13 @@ Los temas incluidos son los siguientes:
 
 ---
 
-## Tecnologías y herramientas
-
-<div align='center'>
-<img src='https://skillicons.dev/icons?i=py'/>
-</div>
-
----
-
 ## Probar la aplicación
 
 Te gustaria probarlo...
 
 Puedes probar la aplicación descargando el instalador desde la sección de [Releases](https://github.com/JuanCruzmx/Analisis-de-datos/releases) de este repositorio.
 
-O si deseas probar la aplicación sin istalar:
+O si deseas probar la aplicación sin instalar:
 
 ```bash
 git clone https://github.com/JuanCruzmx/Analisis-de-datos.git
