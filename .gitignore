@@ -1,6 +1,7 @@
 # Carpertas
 dist/
 __pycache__/
+build/
 
 # Archivos
 *.spec
