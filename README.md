@@ -2,7 +2,7 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-brightgreen?style=for-the-badge&logo=tkinter)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=matplotlib)
 ![Numpy](https://img.shields.io/badge/Numpy-yellow?style=for-the-badge&logo=numpy)
