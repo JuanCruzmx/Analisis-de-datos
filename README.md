@@ -2,7 +2,7 @@
 
 ---
 
-En este proyecto agrupa las práctica de la asignatura de **Análisis de Datos** impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando Tkinter.
+En este proyecto agrupa las práctica de la asignatura de **Análisis de Datos** impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando **Tkinter**.
 
 Los temas incluidos son los siguientes:
 
@@ -11,7 +11,7 @@ Los temas incluidos son los siguientes:
 * Suavizado por promedio móvil recursivo de orden n 
 * Regresión lineal
 
-La mayoría de las prácticas permiten visualizar las gráficas correspondientes, ademas utilizan archivos CSV, para poder cargar los datos y mostrarlas en tablas.
+La mayoría de las prácticas permiten visualizar las gráficas correspondientes utilizando **matplotlib**, ademas utilizan archivos CSV, para poder cargar los datos y mostrarlas en tablas.
 
 ---
 
