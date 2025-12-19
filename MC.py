@@ -138,7 +138,8 @@ class Minimos:
             self.label4.config(text=f'e_r={round((e_a/self.y[n])*100, 2)}%')
             self.label2.config(text=f'F(x)={round(vcalculada, 2)}')
         except ValueError:
+            self.limpiarr()
             prediccion=self.a*float(self.entry.get())+self.b
-            self.label.config(text='La estimacion es de...')
+            self.label.config(text=f'La estimacion para x={self.entry.get()} es de...')
             self.label2.config(text=f'F(x)={round(prediccion, 2)}')
             messagebox.showinfo('No se encuentra en la lista', f'x={self.entry.get()} la aproxamación es {prediccion}') 
