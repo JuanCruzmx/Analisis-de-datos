@@ -1,6 +1,8 @@
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import messagebox, PhotoImage
 import matplotlib.pyplot as plt
+import sys
+import os
 import Trigonometricas as tri
 import suavisado as su
 import ordenar as orde
@@ -13,8 +15,16 @@ class Main:
         self.main.title('Analisis de Datos')
         self.main.geometry('550x390+50+200')
         self.main.config(background='#000000')
+        icon=PhotoImage(file=self.resource_path('logo.png'))
+        self.main.iconphoto(True, icon)
         self.constructores()
         self.main.mainloop()
+    def resource_path(self, relative_path):
+        try:
+            base_path=sys._MEIPASS
+        except Exception:
+            base_path=os.path.abspath('.')
+        return os.path.join(base_path, relative_path)
     def constructores(self):
         letra='Serif Bold'
         portada=tk.Label(text='INSTITUTO POLITECNICO NACIONAL', font=(letra, 18), bg='#000000', fg='#FFFFFF')
