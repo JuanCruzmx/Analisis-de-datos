@@ -2,10 +2,10 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python)
-![Tkinter](https://img.shields.io/badge/Tkinter-white?style=for-the-badge&logo=tkinter)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib)
-![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&logoColor=101010)
+![Tkinter](https://img.shields.io/badge/Tkinter-white?style=for-the-badge&logo=tkinter&logoColor=white&logoColor=101010)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=white&logoColor=101010)
+![Numpy](https://img.shields.io/badge/Numpy-white?style=for-the-badge&logo=numpy&logoColor=white&logoColor=101010)
 
 ---
 
