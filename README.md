@@ -19,20 +19,3 @@ Los temas incluidos son los siguientes:
 * Regresión lineal
 
 **Nota:** La mayoría de las prácticas permiten visualizar las gráficas correspondientes utilizando **matplotlib**, ademas utilizan archivos CSV, para poder cargar los datos y mostrarlas en tablas.
-
----
-
-## Probar la aplicación
-
-Te gustaria probarlo...
-
-Puedes probar la aplicación descargando el instalador desde la sección de [Releases](https://github.com/JuanCruzmx/Analisis-de-datos/releases) de este repositorio.
-
-O si deseas probar la aplicación sin instalar:
-
-```bash
-git clone https://github.com/JuanCruzmx/Analisis-de-datos.git
-cd Analisis-de-datos
-pip install matplotlib numpy
-python main.py
-```
