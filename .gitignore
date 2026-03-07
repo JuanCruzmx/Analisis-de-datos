@@ -11,6 +11,7 @@
 *~
 *.ico
 *.png
+*.exe
 .DS_Store          # MacOS
 Thumbs.db          # Windows
 desktop.ini        # Windows
