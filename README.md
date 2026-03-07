@@ -7,6 +7,7 @@
 </div>
 En este proyecto agrupa las práctica de la asignatura de <b>Análisis de Datos</b> impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando <b>Tkinter</b>.
 
+
 Los temas incluidos son los siguientes:
 <ul>
 	<li>Funciones trigonometricas</li>
