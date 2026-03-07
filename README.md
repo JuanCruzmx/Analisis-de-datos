@@ -1,14 +1,10 @@
 # **Análisis de Datos**
-
 ---
-
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=for-the-badge&logo=tkinter&logoColor=white&labelColor=101010)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=101010)
 ![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)
-
 ---
-
 En este proyecto agrupa las práctica de la asignatura de **Análisis de Datos** impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando **Tkinter**.
 
 Los temas incluidos son los siguientes:
