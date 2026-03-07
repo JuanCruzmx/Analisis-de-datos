@@ -5,7 +5,7 @@
 	<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=101010" alt="Matplotlib">
 	<img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010" alt="Numpy">
 </div>
-En este proyecto agrupa las práctica de la asignatura de **Análisis de Datos** impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando **Tkinter**.
+En este proyecto agrupa las práctica de la asignatura de <b>Análisis de Datos</b> impartida por Guillermo M. Escarcega Carrera, desarrolladas en Python, todas implementadas con una interfas gráfica usando <b>Tkinter</b>.
 
 Los temas incluidos son los siguientes:
 <ul>
